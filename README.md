@@ -1,4 +1,4 @@
-# Low-Poly Image Generator (GitHub Repository Version)
+# Low-Poly Image Generator
 
 This project transforms any input image into **low-poly art** using edge-aware point sampling and Delaunay triangulation. It uses a combination of classical image processing, custom sampling, and optional quantum randomness.
 
