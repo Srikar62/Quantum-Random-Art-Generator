@@ -59,8 +59,8 @@ Triangles are drawn using Pillow.
 ## 🛠️ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/lowpoly-art.git
-cd lowpoly-art
+git clone https://github.com/Srikar62/Quantum-Random-Art-Generator
+cd Quantum-Random-Art-Generator
 ````
 
 Install the required dependencies:
