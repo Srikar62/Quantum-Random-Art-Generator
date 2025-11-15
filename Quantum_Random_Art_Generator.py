@@ -150,11 +150,12 @@ def lowpoly_image(
     print(f"✓ Saved low-poly art to {save_path} (size: {w}×{h}, points: {len(pts)})")
 
 lowpoly_image(
-    img_path="2.jpg",   
+    img_path="examples/monalisa.jpg",   
     max_side=900,              
     n_points=1400,             
     min_dist=7,                
     edge_enhance=True,
     show_preview=True,
-    save_path="21.png"
+    save_path="output/mona_lowpoly.png"
+
 )
