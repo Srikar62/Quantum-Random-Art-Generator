@@ -29,15 +29,6 @@ lowpoly-art/
 │-- README.md
 ```
 
-project/
-│-- lowpoly.py        # Main script (the code you provided)
-│-- monalisa.jpg      # Example input image
-│-- mona_lowpoly.png  # Output low‑poly artwork
-│-- README.md
-
-````
-
----
 
 ## 🧠 How It Works
 ### 1. **Quantum Seed Generation**
