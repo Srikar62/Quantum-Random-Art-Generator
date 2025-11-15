@@ -19,13 +19,13 @@ This project transforms any input image into **low-poly art** using edge-aware p
 ## 📂 Project Structure
 
 ```
-lowpoly-art/
-│-- lowpoly.py          # Main script
+Quantum_Random_Art_Generator
+│-- Quantum_Random_Art_Generator.py          # Main script
 │-- requirements.txt    # Dependencies for easy installation
 │-- examples/
 │     └── monalisa.jpg  # Example input image
 │-- output/
-│     └── sample.png    # Example generated output
+│     └── mona_lowpoly.png   # Example generated output
 │-- README.md
 ```
 
